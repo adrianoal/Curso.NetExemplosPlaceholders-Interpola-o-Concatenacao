@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.exe
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.deps.json
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.dll
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\bin\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.pdb
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.dll
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.pdb
+C:\Users\aalima5\Desktop\Code C#\ImprimirSaidaPadraoConsole\ImprimirSaidaPadraoConsole\obj\Debug\netcoreapp3.1\ImprimirSaidaPadraoConsole.genruntimeconfig.cache
